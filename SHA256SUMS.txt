@@ -1,0 +1,2 @@
+75d59cd22a1bd3af35cba2b93065b01275ac41dbcef92b349032bff69224cad4  poem-brand-discovery.zip
+f56c93267e4005c8e1e2a8ce3958e95db8ebf59f5aeb2a2b47c1d394f4e7d9b6  poem-brand-discovery-plugin.zip
